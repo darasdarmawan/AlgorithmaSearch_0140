@@ -31,4 +31,5 @@ void LineSearch()
 {
 	char ch;
 	int ctr;
+	int item;
 }
