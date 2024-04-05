@@ -60,3 +60,8 @@ void LineSearch()
 
 	} while ((ch == 'y') || (ch == 'Y'));
 }
+
+void display()
+{
+
+}
