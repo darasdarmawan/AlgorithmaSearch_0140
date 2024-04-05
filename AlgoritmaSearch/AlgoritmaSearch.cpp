@@ -29,5 +29,5 @@ void input()
 
 void LineSearch()
 {
-
+	char ch;
 }
